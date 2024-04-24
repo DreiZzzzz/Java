@@ -17,7 +17,7 @@ public class Main {
             System.out.println("Enter choice: ");
             response = scanner.next();
             response = response.toUpperCase();
-// this is a test
+// this is a test #2
             switch(response) {
                 case "P":
                     System.out.println("\nMusic starts now");
